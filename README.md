@@ -1,5 +1,9 @@
 ## LLM Chat Assistant using LLAMA CPP
 
+#### STREAMLIT INTERFACE
+
+![](https://github.com/jivaniyash/llama_cpp-chatbot/blob/main/gif/chat_interface.gif)
+
 1. Create Virtual Env inside VM
     ```bash
     sudo apt update
