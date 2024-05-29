@@ -1,0 +1,7 @@
+__pycache__
+.streamlit
+.venv
+logs/*
+models/*
+test.ipynb
+test.py
